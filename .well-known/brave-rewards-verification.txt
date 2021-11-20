@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: gera0220.github.io
-Token: 5af58801594a117a98ed750b25ec42a9caf990909febf9300636dc807f5bd6f7
