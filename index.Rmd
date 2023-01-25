@@ -3,15 +3,17 @@ title: "Gerardo Pérez"
 image: "gera.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/gerardo-p%C3%A9rez-65119a214/"
+    url: "https://www.linkedin.com/in/gera0220"
   - label: Twitter
     url: "https://twitter.com/gera0220"
   - label: GitHub
     url: "https://github.com/gera0220"
   - label: Email
     url: "mailto:gerapm0220@gmail.com"
+  - label: CV
+    url: "https://github.com/gera0220/gera0220.github.io/blob/master/CV.pdf"
 output:
   postcards::jolla
 ---
 
-Math engineer student in Chihuahua, México. I like challenging myself and learning new stuff in the process. I'm aspiring to become a data scientist. Really enjoy coding.
+Math engineer in Chihuahua, Mexico. I like challenging myself and learning new stuff in the process. Data enthusiast.
